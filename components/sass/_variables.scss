@@ -1,0 +1,30 @@
+// _variables.scss
+// =================
+
+@import "https://fonts.googleapis.com/css?family=Raleway:400,500,600,700";
+
+
+//Colors
+$headerBkg: #fff;
+$navFontColor: #2b2b2b;
+$navSearchFontColor: #4d4d4d;
+$authColor : #f6921e;
+$bkgColor: #f9f9f9;
+$reviewFontColor: #0eb97b;
+
+//Fonts
+$mainFont : 'Raleway', sans-serif;
+$medium: 500; 
+$semibold : 600;
+$bold: 700;
+
+//Margins, paddings
+
+$marginTop: 4.0625em;
+$marginBottom: 3.375em;
+$marginMainSection: 1.875em;
+
+//breakpoints
+
+$breakpoint-xlarge: 1200px;
+$breakpoint-large: 992px;
